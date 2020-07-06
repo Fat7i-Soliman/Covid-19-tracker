@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+mobile app that tracks Covid-19 updates and information about all countries that have cases and how to protect yourself from this virus .
+
 ## App Screens 
 
 ![Screenshot_2020-07-06-11-32-23-39_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86583715-07764080-bf84-11ea-93aa-20875f215b1d.png)
