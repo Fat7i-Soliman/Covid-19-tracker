@@ -4,12 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-## some of screens 
-covid-19 overview updates
-![Screenshot_2020-07-06-11-32-56-15_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86582803-89fe0080-bf82-11ea-8cd9-ff24855e08a0.png)
-![Screenshot_2020-07-06-11-33-13-94_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86582809-8bc7c400-bf82-11ea-92c2-2b423a71e086.png)
-![Screenshot_2020-07-06-11-32-23-39_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86582813-8cf8f100-bf82-11ea-9161-59c2c15c94db.png)
-![Screenshot_2020-07-06-11-32-52-42_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86582817-8d918780-bf82-11ea-98a1-bf601c73b0d2.png)
+## App Screens 
+
+![Screenshot_2020-07-06-11-32-23-39_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86583715-07764080-bf84-11ea-93aa-20875f215b1d.png)
+![Screenshot_2020-07-06-11-32-52-42_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86583718-080ed700-bf84-11ea-91a9-5d01abf1b810.png)
+![Screenshot_2020-07-06-11-32-56-15_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86583725-09400400-bf84-11ea-8052-6079a655ab5e.png)
+![Screenshot_2020-07-06-11-33-13-94_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86583728-09d89a80-bf84-11ea-9941-0f0d0cde539e.png)
+![Screenshot_2020-07-06-12-25-00-68_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86583730-0a713100-bf84-11ea-9e89-c6c92604416c.png)
+
+
 
 This project is a starting point for a Flutter application.
 
