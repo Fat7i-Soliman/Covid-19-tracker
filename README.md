@@ -6,7 +6,7 @@ A new Flutter project.
 
 ## Home Page 
 covid-19 overview updates
-![Screenshot_2020-07-06-11-32-23-39_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86582040-52db1f80-bf81-11ea-880f-f935d1a59072.png)
+![Screenshot_2020-07-06-11-32-23-39_075d3b312edcc23baa70d8b0711c4343](https://user-images.githubusercontent.com/20237235/86582040-52db1f80-bf81-11ea-880f-f935d1a59072.png width=100)
 
 This project is a starting point for a Flutter application.
 
